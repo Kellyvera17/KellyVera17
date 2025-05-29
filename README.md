@@ -2,7 +2,7 @@
 I am Bachelor of Science in Computer Science, Minor in Mathematics  
 Graduated May 2025 from Winthrop University  
 Passionate about software engineering, cloud computing, and data-driven solutions  
-Located in Rock Hill, SC | 🇺🇸 US Citizen  
+Located in Rock Hill, SC | US Citizen  
 
 ## Featured Projects
 
