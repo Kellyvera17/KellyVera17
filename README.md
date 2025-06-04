@@ -21,6 +21,20 @@ CLI-based customer ticket manager with MySQL schema and Python integration for f
 
 Technologies: Python, MySQL
 
+### Web-Based Closure Timer – JavaScript (https://github.com/Kellyvera17/closure-timer-Kellyvera17.git)
+Built a single-page timer tool to notify users when a location is closing. Applied responsive design principles for mobile and desktop users. Enhanced usability with JavaScript DOM manipulation and interactive feedback elements.
+
+Technologies: JavaScript, HTML, CSS
+
+### Set Operations Command Line App (https://github.com/Kellyvera17/set-ops-Kellyvera17.git)
+Implemented a Node.js CLI tool to perform set operations (union, intersection, difference) using custom array logic without the built-in Set object. Designed for instructional use in data structures coursework.
+
+Technologies: Node.js
+
+### AWS Web Deployments (Academic Labs)
+
+Deployed a static website using AWS S3 and configured public access via bucket policies. Provisioned an EC2 instance to host an SSL-enabled Apache web server with user data scripting. Gained practical experience with cloud storage, web hosting, and EC2 scaling via instance resizing.
+
 ## Connect With Me
 - Kellydvera@hotmail.com  
 - [LinkedIn](https://linkedin.com/in/kellydennissevera)
