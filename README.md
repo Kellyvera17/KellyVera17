@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kelly Dennisse Vera
 I am Bachelor of Science in Computer Science, Minor in Mathematics  
 Graduated May 2025 from Winthrop University  
-Passionate about software engineering, cloud computing, and data-driven solutions  
+Passionate about Cloud computing
 Located in Rock Hill, SC | US Citizen  
 
 ## Featured Projects
